@@ -4,7 +4,7 @@ import Logo from './Logo';
 import AppNav from './AppNav';
 
 export function flagEmojiToPNG(flag) {
-  var countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
+  const countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
     .map((char) => String.fromCharCode(char - 127397).toLowerCase())
     .join('');
   return (
