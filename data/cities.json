@@ -37,28 +37,76 @@
       "id": 98443197
     },
     {
-      "cityName": "Valencia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Ivano-Frankivsk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-11T13:45:51.587Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "48.926108577622024",
+        "lng": "24.724731445312504"
       },
-      "id": 17806451
+      "id": 98443198
     },
     {
-      "cityName": "Hamburg",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Chernivtsi",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-12T14:40:42.963Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "48.272225451004324",
+        "lng": "25.944213867187504"
       },
-      "id": 98443597
+      "id": 98443201
+    },
+    {
+      "cityName": "Odesa",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-12T14:45:19.932Z",
+      "notes": "",
+      "position": {
+        "lat": "46.494610770689384",
+        "lng": "30.7672119140625"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Rambrouch",
+      "country": "Luxembourg",
+      "emoji": "🇱🇺",
+      "date": "2024-01-23T13:34:44.017Z",
+      "notes": "",
+      "position": {
+        "lat": "49.82380908513249",
+        "lng": "5.800781250000001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Saint-Just-le-Martel",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-23T13:34:47.910Z",
+      "notes": "",
+      "position": {
+        "lat": "45.867062714815475",
+        "lng": "1.3732910156250002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-23T13:37:51.880Z",
+      "notes": "",
+      "position": {
+        "lat": "50.450509053586615",
+        "lng": "30.498046875000004"
+      },
+      "id": 98443206
     }
   ]
 }
